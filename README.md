@@ -1,8 +1,13 @@
-# React + Vite
+# E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Its a e-commerce website made with react and fakestoreapi.com .
+- we used redux, router-dom and api.
+- You can filter products with search input.
+- Its have dark and white mode.
+- Also you can add product in basket and see the total price.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+https://github.com/user-attachments/assets/3332d155-14c4-41ec-a849-0ffb9a1f334e
+
