@@ -1,0 +1,19 @@
+.logo{
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.search-input{
+    border: none;
+    height: 23px;
+    border-bottom: 2px solid lightgray;
+    padding: 5px 10px;
+    outline: none;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.icon{
+    font-size: 23px;
+    margin-right: 15px;
+}
